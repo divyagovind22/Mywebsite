@@ -1,1 +1,2 @@
-gunicorn website1.wsgi:application
+Django
+gunicorn
